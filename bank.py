@@ -3,6 +3,8 @@ from money import Money
 class Bank:
     """
     This is a doc string
+
+    Doc string has improved.
     """
     def __init__(self):
         self.exchange_rates = {}
