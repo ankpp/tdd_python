@@ -5,6 +5,7 @@ class Bank:
     This is a doc string
 
     Add here some documentation to your class.
+    Docstring second line
     """
     def __init__(self):
         self.exchange_rates = {}
